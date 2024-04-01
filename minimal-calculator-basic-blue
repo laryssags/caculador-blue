@@ -36,12 +36,12 @@ body {
 .calculator {
   
     display: inline-block;
-    background: #1d2749;
+    background: #001e4f;
     margin: 1% 0;
     color: #ffffff;
-    border: 3px solid #1d2749;
+    border: 3px solid #001e4f;
     border-radius: 5px;
-    box-shadow: 2px 2px 1px 0px #1d2749;
+    box-shadow: 2px 2px 1px 0px #001e4f;
     max-width: 240px;
 
   
@@ -56,14 +56,14 @@ body {
     border-radius: 15%;
     border: 0.08em solid #ffffff;
     font-family: monospace;
-    background: #1d2749;
+    background: #001e4f;
     box-shadow: 0.03em  0.03em 0.01em 0px #ffffff;
   color: #ffffff;
 
 }
 
 .calculator .accent{
-   background: #ffffff;  background: #ffffff; color: #1d2749;
+   background: #ffffff;  background: #ffffff; color: #001e4f;
 }
 
 .calculator .space {
@@ -73,8 +73,8 @@ body {
     min-height: 2.4em;
     margin: 0.5%;
     border-radius: 15%;
-    border: 0.08em solid #1d2749;
-    background: #1d2749;
+    border: 0.08em solid #001e4f;
+    background: #001e4f;
     
 
 
@@ -84,7 +84,7 @@ body {
 .calculator button:hover,
 #backspace:hover {
   background:#347eaa;
-  color:#1d2749;
+  color:#001e4f;
   transform: scale(0.9);
   border-radius: 20%;
 
@@ -92,7 +92,7 @@ body {
 
 .calculator 
 #clear:hover , #rad:hover  ,#deg:hover{
-  background: #1d2749!important;
+  background: #001e4f!important;
   color:#ffffff;
   transform: scale(0.9);
   border-radius: 20%;
@@ -106,14 +106,14 @@ body {
 
 .button:active,
 .button-active {
-  background: #1d2749;
+  background: #001e4f;
   color:#ffffff;
   transform: scale(0.8);
 }
 
  #screen{
 
-    border: 3px solid #1d2749;
+    border: 3px solid #001e4f;
     border-radius: 5px;
     width: 80%;
     height: 60px;
@@ -124,22 +124,22 @@ body {
     font-size: 30px;
     font-family: monospace;
     background-color: #ffffff;
-    color: #1d2749;
+    color: #001e4f;
 
 }
 
     
 #clean {
-  background: #1d2749;
+  background: #001e4f;
   color:#ffffff;
 }
 #rad {
-  background: #1d2749;
+  background: #001e4f;
   color:#ffffff;
 }
 #deg {
-  background: #1d2749;
-  color:347eaa;
+  background: #001e4f;
+  color:#ffffff;
 }
 
 .rows{
